@@ -1,18 +1,10 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&pause=1000&width=435&lines=%3E+Welcome+to+my+profile+...+!;Heyyy!+I'm+Ngo+Hieu+%3C3"      alt="Title"></img>
-</div>
-
 <img src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="img" width="30%" align="right"/>
 <br>
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
-- :credit_card: My full name is **Ngo Trung Hieu**
-- :school: I'm currently student at **HUST**
-- :books: My major is **Software Engineering**
-- :earth_asia: I'm living now in **Ha Noi, Viet Nam**
-- :monocle_face: I'm interested in coding, sleeping, and listening music
-- :sunglasses: My quote is ***"It's never too late - never too late to start over, never too late to be happy"*** 
+- ❄: **Winter**
+- :relieved: ***"It's never too late - never too late to start over, never too late to be happy"*** 
 
 
 ## 🌐 Socials
